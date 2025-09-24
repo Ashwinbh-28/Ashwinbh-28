@@ -1,5 +1,7 @@
 # 💫 About Me:
-## 👋<br>I’m Ashwin Bhanage, a Computer Engineering graduate passionate about AI, full-stack development, and cloud systems — currently building an AI résumé screener and hotel chatbot, exploring generative AI with Azure, open to collaborating on AI-driven and cloud projects, and always eager to learn advanced AI model tuning, cost-optimised cloud practices, and better UX/frontend frameworks. **Fun fact:** I debug faster when coffee is involved, but my code still refuses to run on chai.  <br>
+## 👋<br>Hi, I’m Ashwin — a computer engineering grad who loves AI, full-stack dev, and cloud systems.
+Always experimenting, learning, and building things that (mostly) work.
+I debug faster with coffee, but my code still finds creative ways to fail first.  <br>
 
 
 ## 🌐 Socials:
